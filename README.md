@@ -1,5 +1,14 @@
-Story board for Customer Churn Analysis for a mobile service company Databel
+# Customer Churn Analysis Using Tableau - Dummy Telecom. Dataset
 
+## Overview :
+- This project analyzes customer behavior to identify factors influencing churn and predict which customers are at risk of leaving. By leveraging Data Analytics, providing the solution helps businesses take proactive retention measures, thereby improving customer lifetime value and revenue stability.
+
+## Objective
+- Perform Exploratory Data Analysis(EDA) to uncover churn patterns and trends
+- Provide actionable insights to reduce churn through targeted business strategies
+
+  
+## Storyboad SnapShots
 <img width="1418" alt="Screenshot 2025-06-03 at 7 56 04 AM" src="https://github.com/user-attachments/assets/74619a37-cac5-4751-ab71-5d54d2194e07" />
 
 <img width="1413" alt="Screenshot 2025-06-03 at 7 56 33 AM" src="https://github.com/user-attachments/assets/82e4e5b6-6f80-4b23-a10b-da413bfbe7ed" />
